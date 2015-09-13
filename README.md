@@ -12,9 +12,9 @@ Guía para hacer una estimación MCO en python 3, usando 3 métodos diferentes.
 
 # INFORMACIÓN
 
-__Autor:__ Maximiliano Greco
-__País:__ España
-__Version:__ Python 3.k
+- __Autor:__ Maximiliano Greco
+- __País:__ España
+- __Version:__ Python 3.k
 
 # CONTACTO
 
