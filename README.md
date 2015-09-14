@@ -10,6 +10,28 @@ Guía para hacer una estimación MCO en python 3, usando 3 métodos diferentes.
 - Numpy
 - Ipython
 
+# APÉNDICE DE FUNCIONES Y MÉTODOS
+
+- %matplotlib inline
+- pd.read_excel
+- np.vstack
+- np.asmatrix
+- np.asarray
+- .flatten()
+- .T
+- plt.scatter
+- plt.plot
+- pd.ols
+- .y_fitted
+- sm.add_constant
+- sm.OLS
+- .fit
+- .summary
+- .params
+- .fittedvalues
+- .resid
+
+
 # INFORMACIÓN
 
 - __Autor:__ Maximiliano Greco
