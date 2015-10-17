@@ -17,7 +17,7 @@ Guía para hacer una estimación MCO en python 3, usando 3 métodos diferentes.
 - np.vstack
 - np.asmatrix
 - np.asarray
-- .flatten()
+- .flatten()![![![]()]()]()
 - .T
 - plt.scatter
 - plt.plot
